@@ -1,3 +1,4 @@
+#NOTE THAT THIS CODE IS NOT MENT FOR ANY MOULISATTEMPTS
 import smtplib
 from email.mime.text import MIMEText
 import time
